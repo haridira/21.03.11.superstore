@@ -1,4 +1,4 @@
-# Superstore
+# Superstore Analysis
 
 This project attempts to analyze sales data for a superstore, identifying the highest performing regions, segments, and item categories. The project spots Furniture as a serious area of improvement when it comes to net profits, and from there goes into deeper analysis looking into the different components to further isolate those based on their performance. So far, the project finds that Tables and Bookcases are the two most sub-categories that need to be addressed for improvement, especially in the consumer market.
 
@@ -6,7 +6,7 @@ This project attempts to analyze sales data for a superstore, identifying the hi
 
 ## The Main Categories Compared
 
-### A general look at sales and profit
+### A General Look at Sales and Profit
 ![Image of Yaktocat](https://raw.githubusercontent.com/haridira/21.03.11.superstore/main/images/21-03-11-superstore-00-overall.png)
 
 ---
