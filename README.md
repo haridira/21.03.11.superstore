@@ -3,4 +3,4 @@ An interactive dashboard to help identify highest performing regions, segments, 
 
 ![alt text](https://github.com/haridira/21.03.11.superstore/images/21-03-11-superstore-01-furniture.jpg?raw=true)
 
-![Image of Yaktocat](github.com/haridira/21.03.11.superstore/blob/main/images/21-03-11-superstore-01-furniture.png)
+![Image of Yaktocat](https://raw.githubusercontent.com/haridira/21.03.11.superstore/main/images/21-03-11-superstore-01-furniture.png)
