@@ -38,6 +38,3 @@ We take a deeper look into Furniture, but before we do that, we take note of the
 ### Takeout from Above
 
 Of Furniture, Chairs and Furnishings are fairing far better. Bookcases and Tables would need to be further analyzed and later addressed with solutions.
-
-#### Note
-As of the date of writing this note (March 25, 2021), the report is still being developed, with it estimated to be completed by April 2.
